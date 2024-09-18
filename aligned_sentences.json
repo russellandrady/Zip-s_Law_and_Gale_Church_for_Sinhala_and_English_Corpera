@@ -1,0 +1,502 @@
+[
+    {
+        "Sinhala_Sentence": "ඔයා කොහෙද යන්නේ?",
+        "English_Sentence": "Where are you going?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබට කොහොමද?",
+        "English_Sentence": "How are you?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔහු කවද්ද එන්නේ?",
+        "English_Sentence": "When is he coming?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "මට ජලය අවශ්යයි.",
+        "English_Sentence": "I need water.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔයාගේ නම කුමක්ද?",
+        "English_Sentence": "What is your name?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇය කතාව නතර කළා.",
+        "English_Sentence": "She stopped talking.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔවුන් තප්පර පනහකින් ඒවි.",
+        "English_Sentence": "They will arrive in fifty seconds.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබේ වයස කොච්චරද?",
+        "English_Sentence": "How old are you?",
+        "score": NaN
+    },
+    {
+        "Sinhala_Sentence": "මට යම් ආහාරයක් දෙන්න.",
+        "English_Sentence": "Give me some food.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔහුට රැස්වීමට සහභාගී වෙන්න ඕනි.",
+        "English_Sentence": "He needs to attend the meeting.",
+        "score": NaN
+    },
+    {
+        "Sinhala_Sentence": "ඇය ලස්සනයි.",
+        "English_Sentence": "She is beautiful.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "අද මට වැඩ බොහොමයි.",
+        "English_Sentence": "I have a lot of work today.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "අපි හෙට ගමට යනවා.",
+        "English_Sentence": "We are going to the village tomorrow.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔයා කෝපයට පත්වෙන්න එපා.",
+        "English_Sentence": "Don't get angry.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇය ලේඛනයක් ලියමින් සිටියා.",
+        "English_Sentence": "She was writing a document.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "මට උදව්වක් ඕන.",
+        "English_Sentence": "I need help.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබ මෙතන කාලය ගත කරනවාද?",
+        "English_Sentence": "Are you spending time here?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඉක්මනට එන්න.",
+        "English_Sentence": "Come quickly.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබට මේක ඕනිද?",
+        "English_Sentence": "Do you want this?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "අද වහිනවා.",
+        "English_Sentence": "It is raining today.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "මට කාර්යය අවසන් කරන්න ඕන.",
+        "English_Sentence": "I need to finish the task.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔහු බුද්දිමත්.",
+        "English_Sentence": "He is intelligent.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇය මට කමිසය ගැලපෙන බව කියා සිටියා.",
+        "English_Sentence": "She told me that the shirt would fit.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබ කොහොමද එහි යන්නේ?",
+        "English_Sentence": "How do you go there?",
+        "score": NaN
+    },
+    {
+        "Sinhala_Sentence": "අපිට අවුරුද්දක සැලැස්මක් තියෙන්න ඕන.",
+        "English_Sentence": "We need an annual plan.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇය ගෙදර නැහැ.",
+        "English_Sentence": "She is not at home.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබ මෙයට වියදම් කරනවාද?",
+        "English_Sentence": "Are you spending on this?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "මට පාසලට යන්න ඕන.",
+        "English_Sentence": "I need to go to school.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇය හරිම උත්සාහවන්තයි.",
+        "English_Sentence": "She is very hardworking.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔහුට කාර්යයක් ඇත.",
+        "English_Sentence": "He has a task.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "අපේ කාලය අවසන්.",
+        "English_Sentence": "Our time is up.",
+        "score": NaN
+    },
+    {
+        "Sinhala_Sentence": "ඔබට මොනවාද පුළුවන්?",
+        "English_Sentence": "What can you do?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇයට පොතක් අවශ්‍යයි.",
+        "English_Sentence": "She needs a book.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබ මෙම ආහාරයේ රස ගැන දන්නවාද?",
+        "English_Sentence": "Do you know the taste of the food?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔවුන් ආපසු පැමිණෙන බව කියා සිටියා.",
+        "English_Sentence": "They said they would return.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "අපි හෙට පන්සලට යනවා.",
+        "English_Sentence": "We are going to the temple tomorrow.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇය නව ලිපියක් ලියා තිබෙනවා.",
+        "English_Sentence": "She has written a new article.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔහු අලුත් දෙයක් පටන්ගත්තා.",
+        "English_Sentence": "He started a new thing.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇයට මගේ ඇඟිලි පරික්ෂා කිරීමට උවමනාවක් නැහැ.",
+        "English_Sentence": "She doesn't want to check my fingers.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබේ දුරකථන අංකය කුමක්ද?",
+        "English_Sentence": "What is your phone number?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "මම බොහෝ වේලාවක් පරික්ෂණ කළා.",
+        "English_Sentence": "I researched for a long time.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔවුන් ගමන විනෝද උනා.",
+        "English_Sentence": "They enjoyed the trip.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "මට එය ඔබට පැවසීමට කාලයක් නෑ.",
+        "English_Sentence": "I don't have time to say it to you.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබ කොහොමද මෙතනට පැමිණියේ?",
+        "English_Sentence": "How did you come here?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "අපිට නව පාඩමක් ඉගෙනගන්න තිබෙනවා.",
+        "English_Sentence": "We have to learn a new lesson.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔයාට මොනවාද පුළුවන්?",
+        "English_Sentence": "What can you do?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇය ඒ කේක් කැල්ල අරගත්තා.",
+        "English_Sentence": "She got that piece of cake.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබේ අත කොයි වගේද දැනෙන්නේ?",
+        "English_Sentence": "How does your hand feel?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔවුන්ට වඩා හොඳ දෙයක් අවශ්‍යයි.",
+        "English_Sentence": "They need something more.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "මට ආරක්ෂා වීමේ පිළිවෙත් මතකයි.",
+        "English_Sentence": "I remember the safety procedures.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔයා හොඳින්ද?",
+        "English_Sentence": "Are you okay?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔහු ඉක්මනට පැමිණේවි.",
+        "English_Sentence": "He will come soon.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "කෝප වෙන්න එපා.",
+        "English_Sentence": "Don't be angry.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "මම ලෝකයේ හොඳම විනෝදය ලබමි.",
+        "English_Sentence": "I am having the best joy in the world.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔයාට කන්න තියෙනවාද?",
+        "English_Sentence": "Do you have food?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇය උත්සාහ කල යුතුයි.",
+        "English_Sentence": "She needs to make an effort.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔහුගේ දරුවන් කවදද පැමිණෙන්නේ?",
+        "English_Sentence": "When will his children arrive?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "අපිට තවත් ප්‍රශ්න තිබෙනවා.",
+        "English_Sentence": "We have more questions.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබේ විනෝද ගමන කොහොමද?",
+        "English_Sentence": "How was your trip?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "මම හෙට රැස්වීමට එක්වෙනවා.",
+        "English_Sentence": "I am attending the meeting tomorrow.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇයගේ ගම කුමක්ද?",
+        "English_Sentence": "What is her city?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබේ දුරකථනය කොහෙද?",
+        "English_Sentence": "Where is your phone?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "අපිට වැඩ කරන්න තවත් කල් තිබෙනවා.",
+        "English_Sentence": "We have more time to work.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔවුන් දොරක් අසල ඉඳගෙන ඉන්න බව කියනවා.",
+        "English_Sentence": "They claim to sit by a door.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇයට නව ඇඳුම් මිලදී ගැනීමට අවශ්‍යයි.",
+        "English_Sentence": "She needs to buy new clothes.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔයාට තොප්පියක් තියෙනවාද?",
+        "English_Sentence": "Do you have a hat?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "මම මෙතන ඉක්මනින් සුද්ද කරන්නෙමි.",
+        "English_Sentence": "I quickly make here clean.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබට මේ දේ කරන්න පුළුවන් ද?",
+        "English_Sentence": "Can you take this thing?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "අපි මීළඟට කුමක් කල යුතුද?",
+        "English_Sentence": "What should we do next?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔයාට කොහොමද හැඟෙන්නේ?",
+        "English_Sentence": "How do you feel?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇය අත්‍යවශ්‍ය කරුණු කිහිපයක් එවයි.",
+        "English_Sentence": "She will send some important points.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබට ප්‍රතිචාරයක් දක්වන්න පුළුවන් වේවිද?",
+        "English_Sentence": "Can you provide feedback?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔවුන්ට අභ්‍යවකාශය ගැන වඩාත් හොඳින් දැන ගැනීමට අවශ්‍යයි.",
+        "English_Sentence": "They need to know more about space.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබ කුමක්ද කළේ?",
+        "English_Sentence": "What did you do?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "මට පුලුවන්ද ඔබ‍ට උදව් කරන්න?",
+        "English_Sentence": "Can I help you?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබගේ ගමනේ අරමුණ කුමක්ද?",
+        "English_Sentence": "What is the purpose of your trip?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබේ කැමතිම ආහාරය කුමක්ද?",
+        "English_Sentence": "What is your favorite food?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "අපිට වැඩිපුර ඉගෙනගන්න සිද්ද වෙනවා.",
+        "English_Sentence": "We have to learn more.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔහුට නව අවස්ථාවක් තිබෙනවා.",
+        "English_Sentence": "He has a new opportunity.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "මම ඉතාම කාර්යක්ෂමයි.",
+        "English_Sentence": "I am very efficient.",
+        "score": NaN
+    },
+    {
+        "Sinhala_Sentence": "ඔහුගේ ලිපිය ඉක්මනින්ම ලැබීම අපහට සතුටක්.",
+        "English_Sentence": "We are glad his letter arrived quickly.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබේ සැමියාට කොහොමද?",
+        "English_Sentence": "How is your husband?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබේ දැරියට හොඳම තෑග්ග කුමක්ද?",
+        "English_Sentence": "What is the best gift for your daughter?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබට මේක කියවන්න පුළුවන්ද?",
+        "English_Sentence": "Can you read this?",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබේ මනස දැනුමෙන් පරිපුර්ණයි.",
+        "English_Sentence": "Your mind is filled with knowledge.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇයට කිරීමට ප්‍රධාන කාර්යයක් තිබෙනවා.",
+        "English_Sentence": "She has a major task to do.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබේ දුක තුනී කරගන්න.",
+        "English_Sentence": "Wash away your sorrows.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔවුන්ගේ ප්‍රතිපල ඉක්මනට ලබා ගත හැක.",
+        "English_Sentence": "Their results can be obtained quickly.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔහුට සහාය අවශ්‍යයි.",
+        "English_Sentence": "He needs support.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇය කොහේද යනවා.",
+        "English_Sentence": "She is going somewhere .",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබට පසුව විවේකයක් අවශ්‍යයි.",
+        "English_Sentence": "You need a break later.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔහු ජාතික ක්‍රිකට් කණ්ඩායටම එක් වෙනවා.",
+        "English_Sentence": "He is joining the national cricket team.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇය මනුෂ්‍යත්වය ගැන කතා කරනවා.",
+        "English_Sentence": "She talks about humanity.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබට මට පිළිතුරක් දීමට සිදු වෙනවා.",
+        "English_Sentence": "You have to give me an answer.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔවුන් ළඟ අලුත් අවස්ථාවක් පවති.",
+        "English_Sentence": "They have a new opportunity.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "අපට ගෙදර යාමට සිදුවිය හැක.",
+        "English_Sentence": "We may have to go home",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔබ මේ මාසයේදී ව්‍යාපාරයක් සැලසුම් කල යුතුයි.",
+        "English_Sentence": "You should plan a business this month.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඇය නව අදහසක් ගැන සිතමින් සිටී.",
+        "English_Sentence": "She is thinking about a new idea.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "ඔහු මුදල් ගෙවීමට අවශ්‍යයි.",
+        "English_Sentence": "He needs to make a payment.",
+        "score": 0.1353352832366127
+    },
+    {
+        "Sinhala_Sentence": "අපි තවදුරටත් කතාකිරීමට අවශ්‍යයි.",
+        "English_Sentence": "We need to talk more.",
+        "score": 0.1353352832366127
+    }
+]
